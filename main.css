@@ -1,7 +1,71 @@
 body{
-	background-color: purple;
-	border-style: wavy;
-	background-repeat: pink;
-	margin: 60px;
+	background-color: grey;
+	text-align: center;
+	height: 
+}
+
+div{
+
+	width:1000px;
+    min-height:100px;
+	padding: 20px;
+	margin:0 auto;
 
 }
+.till{
+	float: left;
+	height: 1000px;
+	width:  1000px;
+	background-color: white;
+}
+
+  .til.one{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	
+	
+}
+
+.two{
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	
+}
+
+.three{
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	
+	}
+	.four{
+		background-color: black;
+		
+	}
+
+	.five{
+		background-color: purple;
+		width: 200px;
+		height: 200px;
+		
+	}
+		
+	
+
+
+.six{
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	
+	
+}
+
+
+.seven{
+	background-color: orange;
+	
+}
+
